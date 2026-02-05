@@ -35,15 +35,15 @@
 
 ## Структура проекта
 
-document_assistant.py # Основной класс RAG-агента
-llm_openrouter.py # Клиент для работы с OpenRouter
-loaders.py # Загрузка PDF / DOCX / TXT
-chunker.py # Логика разбиения текста
-demo.py # Демонстрационный запуск
-results.json # Сохранённые ответы
-requirements.txt # Зависимости проекта
-.env # переменные окружения
-demo.ipynb # Jupyter-ноутбук в котором можно протетировать приложение
+document_assistant.py # Основной класс RAG-агента  
+llm_openrouter.py # Клиент для работы с OpenRouter  
+loaders.py # Загрузка PDF / DOCX / TXT  
+chunker.py # Логика разбиения текста  
+demo.py # Демонстрационный запуск  
+results.json # Сохранённые ответы  
+requirements.txt # Зависимости проекта  
+.env # переменные окружения  
+demo.ipynb # Jupyter-ноутбук в котором можно протетировать приложение  
 
 ---
 
